@@ -1,4 +1,149 @@
 body {
-  background-color: #fff;
-  color: #2a2a2a;
+  text-align: center;
+  background: url(/img/cover-denis.svg);
+  background-size: cover !important;
+  background-position: top !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed;
+}
+
+.logo-denis {
+  width: 277px;
+  height: 77px;
+  left: 822px;
+  top: 65px;
+  padding: 65px 0 0 0;
+}
+
+.article1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 80px;
+  color: #ffffff;
+  margin: 38px 0 0 0;
+}
+.article2 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 80px;
+  color: #ffffff;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+.address {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 35px;
+  color: #ffffff;
+  margin: 10px;
+}
+.ellips1 {
+  padding: 0 17px 0 0;
+}
+
+.green {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  color: #44d62d;
+  margin: 0 15px 0 0;
+}
+.green-email {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: center;
+  color: #ffffff;
+  margin: 0 15px 0 0;
+}
+
+.gdpr {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.gdpr-blue {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 14px;
+  color: #67bfff;
+}
+
+/* Main footer */
+.footer-green {
+  height: 190px;
+  top: 789px;
+  background: #44d62d;
+}
+.footer-green-contact {
+  padding: 43px 0 0 0;
+}
+
+.radi {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #202020;
+  padding: 0 18px 0 0;
+}
+
+.hr {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #202020;
+}
+
+.tel-link {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #202020;
+  padding: 0 18px 0 0;
+}
+
+.img {
+  padding: 0 10px 0 0;
+}
+
+.mailto {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #ffffff;
+}
+
+/* Social footer */
+.img-social {
+  padding: 0 28px 0 0;
+  margin: 28px 0 0 0;
 }
