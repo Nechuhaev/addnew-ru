@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: url(/img/cover-denis.svg);
+  background: url(../img/cover-denis.jpeg);
   background-size: cover !important;
   background-position: top !important;
   background-repeat: no-repeat !important;
@@ -24,16 +24,7 @@ body {
   color: #ffffff;
   margin: 38px 0 0 0;
 }
-.article2 {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 60px;
-  line-height: 80px;
-  color: #ffffff;
-  padding: 0 0 0 0;
-  margin: 0 0 0 0;
-}
+
 .address {
   font-family: Roboto;
   font-style: normal;
