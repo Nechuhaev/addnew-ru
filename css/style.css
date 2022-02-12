@@ -77,6 +77,10 @@ body {
   color: #67bfff;
 }
 
+.gdpr-blue:hover {
+  color: black;
+}
+
 /* Main footer */
 .footer-green {
   height: 190px;
